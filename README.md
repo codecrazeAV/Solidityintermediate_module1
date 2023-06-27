@@ -6,7 +6,7 @@ This Solidity program is a simple "solidity" program that demonstrates the basic
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This program has a contract named ErrorHandlingExample. The contract has 5 functions- buy tokens, sell tokens, deposit, withdraw and transfer.
 
 <h2> Video Representation</h2>
-https://drive.google.com/drive/my-drive?q=type:video
+https://drive.google.com/file/d/1B-Ru0tUvxDsDNkDtZLN7yhXZmGAyvUtn/view?usp=sharing
 
 <h2>Getting Started</h2>
 <h3>Executing program</h3>
