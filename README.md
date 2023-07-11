@@ -1,4 +1,4 @@
-<h1>Solidity intermediate module 1 </h1>
+<h1>Error Handling in the Solidity smart contract</h1>
 
 This Solidity program is a simple "solidity" program that demonstrates the basic syntax and functionality of a error handling which can be deployed with the help of a smart contract. The purpose of this program is to serve as an exmaple implementation of revert, asert and require functions used in error handling.
 
